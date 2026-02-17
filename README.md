@@ -32,7 +32,7 @@ A high-performance PyTorch library implementing optimized transformer components
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/efficient-transformers.git
+git clone https://github.com/raghusai-09/efficient-transformers-library.git
 cd efficient-transformers
 
 # Install dependencies
