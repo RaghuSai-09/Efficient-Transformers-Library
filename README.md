@@ -313,9 +313,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 📧 Contact
 
 Questions? Open an issue or reach out:
-- Email: your.email@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- Email: kosanaraghusai@gmail.com
+- LinkedIn: Raghu Sai Kosana (https://linkedin.com/in/raghusai09)
 
 ---
 
